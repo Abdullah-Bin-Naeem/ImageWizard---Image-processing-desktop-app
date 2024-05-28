@@ -39,7 +39,7 @@ To get started with ImageWizard, clone the repository:
 
 ```sh
 git clone https://github.com/Grifind0r/ImageWizard---Image-processing-desktop-app.git
-cd imagewizard
+cd ImageWizard---Image-processing-desktop-app
 ```
 ## Using the Executable
 If you prefer to use the precompiled executable:
