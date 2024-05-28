@@ -38,7 +38,7 @@ Operations such as **Erosion**, **Dilation**, **Opening**, and **Closing** are i
 To get started with ImageWizard, clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/imagewizard.git
+git clone https://github.com/Grifind0r/ImageWizard---Image-processing-desktop-app.git
 cd imagewizard
 ```
 ## Using the Executable
