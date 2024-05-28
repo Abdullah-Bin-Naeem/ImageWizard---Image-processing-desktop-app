@@ -31,7 +31,6 @@ Operations such as **Erosion**, **Dilation**, **Opening**, and **Closing** are i
 
 - `run.py`: The main script for running the ImageWizard.
 - `image_proc.ipynb`: A Jupyter Notebook with additional image processing operations and examples.
-- `executable/dist/run.exe`: Precompiled executable file for direct use.
 
 ## Installation
 
@@ -41,32 +40,18 @@ To get started with ImageWizard, clone the repository:
 git clone https://github.com/Grifind0r/ImageWizard---Image-processing-desktop-app.git
 cd ImageWizard---Image-processing-desktop-app
 ```
-## Using the Executable
-If you prefer to use the precompiled executable:
 
-Navigate to the executable/dist directory:
-```sh
-Copy code
-cd executable/dist
-```
-Run the executable:
-```sh
-Copy code
-./run.exe
-```
 ## Running from Source
-You can also run the application directly from the source code:
+You can run the application directly from the source code:
 
 Ensure you have Python and the required libraries installed. You can install the dependencies using:
 
 ```sh
-Copy code
 pip install -r requirements.txt
 ```
 Run the script:
 
 ```sh
-Copy code
 python run.py
 ```
 Alternatively, you can explore additional operations using the Jupyter Notebook  ```image_proc.ipynb```
