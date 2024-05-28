@@ -25,7 +25,7 @@ For videos, the application processes the first 20 frames to keep it simple and 
 
 ### Custom Implementations
 
-Operations such as **Erosion**, **Dilation**, **Opening**, and **Closing** are implemented from scratch using NumPy. This approach helps users understand these operations by comparing the results with OpenCV implementations. These operations are demonstrated on black and white images to clearly show their effects.
+Operations such as **Erosion**, **Dilation**, **Opening**, and **Closing** are implemented from scratch using NumPy. This approach helps users understand these operations by comparing the results with OpenCV implementations. These operations are demonstrated on black and white images to clearly show their effects. Their comparison with cv2 implementations is also added in the app.
 
 ## Project Structure
 
